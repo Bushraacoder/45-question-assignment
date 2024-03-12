@@ -1,0 +1,13 @@
+"use strict";
+let Destination = ["Cappadocia", "Hongkong", "Paris", "Bali", "Maldives"];
+//console.log(Destination);
+//console.log(Destination.sort());
+console.log(Destination);
+//console.log(Destination.sort().reverse());
+//console.log(Destination.reverse());
+//console.log(Destination.reverse());
+let sortarray = ["Cappadocia", "Hongkong", "Paris", "Bali", "Maldives"];
+sortarray.sort();
+console.log(sortarray);
+sortarray.reverse();
+console.log(sortarray);
